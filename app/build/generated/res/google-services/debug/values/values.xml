@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">404119818611-vsfbhqaeenklmolq0401i6ahogt418mo.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">404119818611</string>
+    <string name="google_api_key" translatable="false">AIzaSyC72gd-Zb_cG5becQFj6qCDMyzG_SzooUI</string>
+    <string name="google_app_id" translatable="false">1:404119818611:android:6a5de2294a0e76aca43506</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC72gd-Zb_cG5becQFj6qCDMyzG_SzooUI</string>
+    <string name="google_storage_bucket" translatable="false">chatoto-dd6b8.appspot.com</string>
+    <string name="project_id" translatable="false">chatoto-dd6b8</string>
+</resources>
